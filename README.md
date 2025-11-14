@@ -1,10 +1,12 @@
 # KNN Model for PVC Detection Using Portable ECG - Final Project
 
+<img src="Hardware/Worn-Portable-ECG-Device.jpg" width="70%" height="70%">
+
 ## Background
 According to the WHO, in 2019, cardiovascular diseases (CVDs), were the leading cause of death worldwide. This represents 32% of all global deaths, with 17.9 million people dying from them. One type of CVD is arrhythmia. Arrhythmia is characterized by an irregular heart rhythm. One type of arrhythmia is *Premature Ventricular Contractions* (PVC). People experiencing PVC can experience symptoms such as dizziness, palpitations, chest pain, or shortness of breath. Early detection of PVC is crucial to prevent serious complications. The most reliable method is an electrocardiogram (ECG). However, it is difficult for experts to analyze long-term ECG, especially since paper-based ECG devices are still used.
 
 ## Block Diagram of the System
-![Block Diagram](https://github.com/ZaidanFitra/KNN-PVC-Detection/blob/main/Block-Diagram-of-the-System.png?raw=true)
+<img src="Block-Diagram-of-the-System.png" width="70%" height="70%">
 
 ## Hardware - IoT-based Portable ECG
 - The hardware using **ESP32** to send ECG data to mobile app via BLE.
